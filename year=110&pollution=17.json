@@ -1,0 +1,202 @@
+[
+    {
+        "dataTitle": [
+            {
+                "item": "稽查案件件數",
+                "year": "110",
+                "departmentId": "",
+                "departmentName": "全國",
+                "pollutionId": "20",
+                "pollutionName": "測試3",
+                "countUnit": "(件)",
+                "totalCount": "33548",
+                "bureaus": [
+                    {
+                        "bureauName": "北區督察大隊",
+                        "bureauOrderById": "24",
+                        "bureauCount": "110"
+                    },
+                    {
+                        "bureauName": "中區督察大隊",
+                        "bureauOrderById": "25",
+                        "bureauCount": "17"
+                    },
+                    {
+                        "bureauName": "南區督察大隊",
+                        "bureauOrderById": "26",
+                        "bureauCount": "108"
+                    }
+                ]
+            }
+        ],
+        "dataDetail": [
+            {
+                "areaId": "1",
+                "areaName": "北部",
+                "areaOrderById": "1",
+                "areaData": [
+                    {
+                        "departmentId": "01",
+                        "departmentName": "臺北市",
+                        "departmentOrderById": "1",
+                        "counts": "1110"
+                    },
+                    {
+                        "departmentId": "08",
+                        "departmentName": "新北市",
+                        "departmentOrderById": "2",
+                        "counts": "1117"
+                    },
+                    {
+                        "departmentId": "03",
+                        "departmentName": "基隆市",
+                        "departmentOrderById": "3",
+                        "counts": "512"
+                    },
+                    {
+                        "departmentId": "10",
+                        "departmentName": "桃園市",
+                        "departmentOrderById": "4",
+                        "counts": "3427"
+                    },
+                    {
+                        "departmentId": "11",
+                        "departmentName": "新竹縣",
+                        "departmentOrderById": "5",
+                        "counts": "827"
+                    },
+                    {
+                        "departmentId": "04",
+                        "departmentName": "新竹市",
+                        "departmentOrderById": "6",
+                        "counts": "472"
+                    }
+                ]
+            },
+            {
+                "areaId": "2",
+                "areaName": "中部",
+                "areaOrderById": "2",
+                "areaData": [
+                    {
+                        "departmentId": "12",
+                        "departmentName": "苗栗縣",
+                        "departmentOrderById": "8",
+                        "counts": "698"
+                    },
+                    {
+                        "departmentId": "31",
+                        "departmentName": "臺中市",
+                        "departmentOrderById": "9",
+                        "counts": "2489"
+                    },
+                    {
+                        "departmentId": "14",
+                        "departmentName": "彰化縣",
+                        "departmentOrderById": "10",
+                        "counts": "1365"
+                    },
+                    {
+                        "departmentId": "15",
+                        "departmentName": "南投縣",
+                        "departmentOrderById": "11",
+                        "counts": "97"
+                    },
+                    {
+                        "departmentId": "16",
+                        "departmentName": "雲林縣",
+                        "departmentOrderById": "12",
+                        "counts": "858"
+                    }
+                ]
+            },
+            {
+                "areaId": "3",
+                "areaName": "南部",
+                "areaOrderById": "3",
+                "areaData": [
+                    {
+                        "departmentId": "17",
+                        "departmentName": "嘉義縣",
+                        "departmentOrderById": "13",
+                        "counts": "1069"
+                    },
+                    {
+                        "departmentId": "06",
+                        "departmentName": "嘉義市",
+                        "departmentOrderById": "14",
+                        "counts": "528"
+                    },
+                    {
+                        "departmentId": "32",
+                        "departmentName": "臺南市",
+                        "departmentOrderById": "15",
+                        "counts": "3552"
+                    },
+                    {
+                        "departmentId": "33",
+                        "departmentName": "高雄市",
+                        "departmentOrderById": "16",
+                        "counts": "3653"
+                    },
+                    {
+                        "departmentId": "20",
+                        "departmentName": "屏東縣",
+                        "departmentOrderById": "17",
+                        "counts": "1063"
+                    }
+                ]
+            },
+            {
+                "areaId": "4",
+                "areaName": "東部",
+                "areaOrderById": "4",
+                "areaData": [
+                    {
+                        "departmentId": "09",
+                        "departmentName": "宜蘭縣",
+                        "departmentOrderById": "18",
+                        "counts": "744"
+                    },
+                    {
+                        "departmentId": "22",
+                        "departmentName": "花蓮縣",
+                        "departmentOrderById": "19",
+                        "counts": "200"
+                    },
+                    {
+                        "departmentId": "21",
+                        "departmentName": "臺東縣",
+                        "departmentOrderById": "20",
+                        "counts": "359"
+                    }
+                ]
+            },
+            {
+                "areaId": "5",
+                "areaName": "離島",
+                "areaOrderById": "5",
+                "areaData": [
+                    {
+                        "departmentId": "23",
+                        "departmentName": "澎湖縣",
+                        "departmentOrderById": "21",
+                        "counts": "25"
+                    },
+                    {
+                        "departmentId": "24",
+                        "departmentName": "金門縣",
+                        "departmentOrderById": "22",
+                        "counts": "108"
+                    },
+                    {
+                        "departmentId": "25",
+                        "departmentName": "連江縣",
+                        "departmentOrderById": "23",
+                        "counts": "13"
+                    }
+                ]
+            }
+        ]
+    }
+]
