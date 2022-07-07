@@ -1,0 +1,2024 @@
+[
+    {
+        "dataTitle": [
+            {
+                "item": "稽查人力",
+                "yearBeginNumber": 2020,
+                "year": "111",
+                "departmentId": "",
+                "departmentName": "全國",
+                "humanResourcesCategory": "",
+                "humanResourcesType": "",
+                "humanResourcesConfiguration": [
+                    {
+                        "categoryId": 1,
+                        "category": "執行人力",
+                        "resourcesTypes": [
+                            {
+                                "type": "1",
+                                "typeName": "編制內人員",
+                                "typeOrderById": "1",
+                                "typeCounts": "40.2"
+                            },
+                            {
+                                "type": "2",
+                                "typeName": "約聘人員",
+                                "typeOrderById": "2",
+                                "typeCounts": "7.1"
+                            },
+                            {
+                                "type": "3",
+                                "typeName": "委外人員",
+                                "typeOrderById": "5",
+                                "typeCounts": "8.0"
+                            }
+                        ],
+                        "totalAmountOfTypes": 1110,
+                        "categoryOrderById": 1
+                    },
+                    {
+                        "categoryId": 2,
+                        "category": "執行重大污染案件人力",
+                        "resourcesTypes": [
+                            {
+                                "type": "1",
+                                "typeName": "編制內人員",
+                                "typeOrderById": "1",
+                                "typeCounts": "40.2"
+                            },
+                            {
+                                "type": "2",
+                                "typeName": "約聘人員",
+                                "typeOrderById": "2",
+                                "typeCounts": "7.1"
+                            },
+                            {
+                                "type": "3",
+                                "typeName": "委外人員",
+                                "typeOrderById": "5",
+                                "typeCounts": "8.0"
+                            }
+                        ],
+                        "totalAmountOfTypes": 1110,
+                        "categoryOrderById": 2
+                    },
+                    {
+                        "categoryId": 3,
+                        "category": "非法棄置人力",
+                        "resourcesTypes": [
+                            {
+                                "type": "1",
+                                "typeName": "編制內人員",
+                                "typeOrderById": "1",
+                                "typeCounts": "40.2"
+                            },
+                            {
+                                "type": "2",
+                                "typeName": "約聘人員",
+                                "typeOrderById": "2",
+                                "typeCounts": "7.1"
+                            },
+                            {
+                                "type": "3",
+                                "typeName": "委外人員",
+                                "typeOrderById": "5",
+                                "typeCounts": "8.0"
+                            }
+                        ],
+                        "totalAmountOfTypes": 1110,
+                        "categoryOrderById": 3
+                    }
+                ]
+            }
+        ],
+        "dataDetail": [
+            {
+                "areaId": "1",
+                "areaName": "北部",
+                "areaOrderById": "1",
+                "areaData": [
+                    {
+                        "departmentId": "01",
+                        "departmentName": "臺北市",
+                        "departmentOrderById": "1",
+                        "totalAmountOfHumanResources": "3.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "08",
+                        "departmentName": "新北市",
+                        "departmentOrderById": "2",
+                        "totalAmountOfHumanResources": "4.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "03",
+                        "departmentName": "基隆市",
+                        "departmentOrderById": "3",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "10",
+                        "departmentName": "桃園市",
+                        "departmentOrderById": "4",
+                        "totalAmountOfHumanResources": "2.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "11",
+                        "departmentName": "新竹縣",
+                        "departmentOrderById": "5",
+                        "totalAmountOfHumanResources": "4.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "04",
+                        "departmentName": "新竹市",
+                        "departmentOrderById": "6",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "areaId": "2",
+                "areaName": "中部",
+                "areaOrderById": "2",
+                "areaData": [
+                    {
+                        "departmentId": "12",
+                        "departmentName": "苗栗縣",
+                        "departmentOrderById": "8",
+                        "totalAmountOfHumanResources": "2.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "31",
+                        "departmentName": "臺中市",
+                        "departmentOrderById": "9",
+                        "totalAmountOfHumanResources": "5.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "14",
+                        "departmentName": "彰化縣",
+                        "departmentOrderById": "10",
+                        "totalAmountOfHumanResources": "2.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "15",
+                        "departmentName": "南投縣",
+                        "departmentOrderById": "11",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "16",
+                        "departmentName": "雲林縣",
+                        "departmentOrderById": "12",
+                        "totalAmountOfHumanResources": "0.7",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "areaId": "3",
+                "areaName": "南部",
+                "areaOrderById": "3",
+                "areaData": [
+                    {
+                        "departmentId": "17",
+                        "departmentName": "嘉義縣",
+                        "departmentOrderById": "13",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "06",
+                        "departmentName": "嘉義市",
+                        "departmentOrderById": "14",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "32",
+                        "departmentName": "臺南市",
+                        "departmentOrderById": "15",
+                        "totalAmountOfHumanResources": "5.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "33",
+                        "departmentName": "高雄市",
+                        "departmentOrderById": "16",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "20",
+                        "departmentName": "屏東縣",
+                        "departmentOrderById": "17",
+                        "totalAmountOfHumanResources": "1.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "areaId": "4",
+                "areaName": "東部",
+                "areaOrderById": "4",
+                "areaData": [
+                    {
+                        "departmentId": "09",
+                        "departmentName": "宜蘭縣",
+                        "departmentOrderById": "18",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "22",
+                        "departmentName": "花蓮縣",
+                        "departmentOrderById": "19",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "21",
+                        "departmentName": "臺東縣",
+                        "departmentOrderById": "20",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "areaId": "5",
+                "areaName": "離島",
+                "areaOrderById": "5",
+                "areaData": [
+                    {
+                        "departmentId": "23",
+                        "departmentName": "澎湖縣",
+                        "departmentOrderById": "21",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "24",
+                        "departmentName": "金門縣",
+                        "departmentOrderById": "22",
+                        "totalAmountOfHumanResources": "0.1",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    },
+                    {
+                        "departmentId": "25",
+                        "departmentName": "連江縣",
+                        "departmentOrderById": "23",
+                        "totalAmountOfHumanResources": "0.0",
+                        "humanResourcesConfiguration": [
+                            {
+                                "categoryId": 1,
+                                "category": "執行人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 1
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "執行重大污染案件人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 2
+                            },
+                            {
+                                "categoryId": 2,
+                                "category": "非法棄置人力",
+                                "resourcesTypes": [
+                                    {
+                                        "type": "1",
+                                        "typeName": "編制內人員",
+                                        "typeOrderById": "1",
+                                        "typeCounts": "40.2"
+                                    },
+                                    {
+                                        "type": "2",
+                                        "typeName": "約聘人員",
+                                        "typeOrderById": "2",
+                                        "typeCounts": "7.1"
+                                    },
+                                    {
+                                        "type": "3",
+                                        "typeName": "委外人員",
+                                        "typeOrderById": "5",
+                                        "typeCounts": "8.0"
+                                    }
+                                ],
+                                "totalAmountOfTypes": 1110,
+                                "categoryOrderById": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
